@@ -3,6 +3,6 @@
 
 public class TestSample {
     public static func printsomething() {
-        print("Something")
+        print("Something changed")
     }
 }
